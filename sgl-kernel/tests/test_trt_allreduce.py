@@ -1,11 +1,10 @@
 import ctypes
 import logging
-import os
 import random
 import socket
 import time
 import unittest
-from typing import Any, List, Optional, Union
+from typing import Any, List, Optional
 
 import ray
 import torch
